@@ -16,4 +16,4 @@ return function(){
     
 }
 
-
+botaoTrocarImg.addEventListener("click, trocar fundo")
